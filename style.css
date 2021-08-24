@@ -7,6 +7,8 @@ html, body {
     padding: 0px;
     background-color: lightblue;
     overflow: auto;
+    background: linear-gradient(to bottom, #E5FCF5 0%, #7AA7A6 100%);
+
 
     font-family: 'Mate', serif;
 }
@@ -59,7 +61,4 @@ html, body {
     background-color: rgba(0, 0, 0, 0.1);
 }
 
-div {
-    background: linear-gradient(to bottom, #E5FCF5 0%, #CBE7E2 100%);
-}
 
