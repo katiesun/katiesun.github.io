@@ -8,11 +8,11 @@ html, body {
     background-color: lightblue;
     overflow: auto;
 
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Mate', serif;
 }
 
 .name {
-    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Jost', sans-serif;
     margin-bottom: 2px;
 }
 
