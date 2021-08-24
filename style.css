@@ -59,3 +59,7 @@ html, body {
     background-color: rgba(0, 0, 0, 0.1);
 }
 
+div {
+    background: linear-gradient(to bottom, #E5FCF5 0%, #CBE7E2 100%);
+}
+
