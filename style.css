@@ -35,6 +35,11 @@ html, body {
     justify-content: center;
     max-width: 30%;
 }
+.right {
+    align-items: center;
+    justify-content: center;
+    max-width: 70%;
+}
 
 
 .socials {
