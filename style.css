@@ -6,6 +6,8 @@ html, body {
     margin: 0px;
     padding: 0px;
     background-color: lightblue;
+
+    font-family: 'Open Sans', sans-serif;
 }
 
 .wrapper {    
@@ -27,4 +29,25 @@ html, body {
     justify-content: center;
     max-width: 30%;
 }
+
+
+.socials {
+    list-style: none;
+    padding-left: 0px;
+    font-size: 18px;
+  }
+  
+  .socials li {
+    display: inline-block;
+    margin-right: 8px;
+  }
+  
+  .socials a {
+    text-decoration: none;
+    padding: 4px;
+  }
+  
+  .socials a:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+  }
 
