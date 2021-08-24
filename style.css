@@ -9,12 +9,12 @@ html, body {
     overflow: auto;
     background: linear-gradient(to bottom, #E5FCF5 0%, #7AA7A6 100%);
 
-
-    font-family: 'Mate', serif;
+    font-family: 'Jost', sans-serif;
 }
 
 .name {
     font-family: 'Jost', sans-serif;
+    font-weight: bold; 
     margin-bottom: 2px;
 }
 
